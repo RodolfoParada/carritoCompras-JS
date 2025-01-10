@@ -4,3 +4,5 @@
 #agregarCurso, eliminarCurso, leerDatosCurso, limpiarHTML, carrito de compras.
 
 #El proyecto muestra en cards los cursos lo cuales se pueden agregar en un listado y eliminarse.  
+
+#Se agregó localStorge para guardar los cursos en la memoria local.
